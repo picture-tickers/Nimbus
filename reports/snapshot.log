@@ -1,0 +1,17 @@
+[Nimbus] Validation Snapshot
+Timestamp: 2026-01-13T10:04:12+01:00
+Network: base-sepolia
+ChainId: 84532
+RPC: https://sepolia.base.org
+Explorer: https://sepolia.basescan.org
+
+Checks:
+  - RPC Connectivity: OK
+  - Latest Block Number: 12877421
+  - Block Recheck Consistency: OK (delta within tolerance)
+  - Sample Balance (exampleEOA): 0
+  - Code Presence (exampleContract): 0x
+  - Explorer Base URL: OK
+
+Status: PASS
+Notes: Snapshot captured for repeatable local comparisons and debugging.
